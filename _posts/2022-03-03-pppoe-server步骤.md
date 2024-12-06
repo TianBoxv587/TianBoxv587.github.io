@@ -1,7 +1,7 @@
 ---
 title: pppoe-server步骤
 date: 2022-03-03 +0800
-categories: []
+categories: [pppoe实验]
 tags: [pppoe] # TAG names should always be lowercase
 comments: true
 ---

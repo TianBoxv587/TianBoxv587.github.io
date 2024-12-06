@@ -1,7 +1,7 @@
 ---
 title: radius步骤(1)-freeradius & freeradius-client
 date: 2022-03-12 10:29:01 +0800
-categories: []
+categories: [pppoe实验]
 tags: [radius, pppoe]
 comments: false
 published: true

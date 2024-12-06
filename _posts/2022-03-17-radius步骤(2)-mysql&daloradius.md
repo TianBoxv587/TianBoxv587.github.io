@@ -1,7 +1,7 @@
 ---
 title: radius步骤(2)-mysql & daloradius
 date: 2022-03-17 15:23:56 +0800
-categories: []
+categories: [pppoe实验]
 tags: [pppoe, radius]
 comments: false
 published: true
