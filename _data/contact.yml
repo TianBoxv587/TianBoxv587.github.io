@@ -3,6 +3,10 @@
 - type: github
   icon: "fab fa-github"
 
+- type: bilibili
+  icon: "fab fa-bilibili"
+  url: "https://space.bilibili.com/24864415"
+
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
@@ -10,9 +14,9 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+# - type: rss
+#   icon: "fas fa-rss"
+#   noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
